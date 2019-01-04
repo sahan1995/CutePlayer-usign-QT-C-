@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/eject.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/play-button.png</file>
+        <file>icons/stop.png</file>
+        <file>icons/play-button1.png</file>
+        <file>icons/play-button2.png</file>
+        <file>icons/music-player-play.png</file>
+        <file>icons/back.png</file>
+        <file>icons/next.png</file>
+        <file>icons/pause1.png</file>
+        <file>icons/stop1.png</file>
+        <file>icons/full-screen.png</file>
+        <file>icons/playlist.png</file>
+        <file>icons/plus.png</file>
+        <file>icons/speaker-filled-audio-tool.png</file>
+        <file>images/og_image.png</file>
+        <file>images/cool-background1.jpg</file>
+        <file>images/splash.jpg</file>
+    </qresource>
+    <qresource prefix="/video">
+        <file>video/Ring Equalizer -- After Effects.mp4</file>
+    </qresource>
+</RCC>
